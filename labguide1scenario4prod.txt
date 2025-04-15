@@ -1,0 +1,21 @@
+# Exercise 2: Create virtual network
+
+Follow below steps to create an virtual netoerk.
+
+1. At the top of the AWS Management Console, in the search bar, search for the service **S3**.
+
+    ![](./images/s3.png)
+
+2. At the S3 dashboard click on **Create Bucket**
+
+    ![](./images/s302.png)
+
+3. Give bucket name: **<inject key="CommonName" enableCopy="true" />**
+
+    ![](./images/s301.png)
+
+4. Click on **Create Bucket**
+
+# Validation
+
+<validation step="3ce108c5-32f3-400f-909d-2c411e041ba2" />
