@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "CloudLabs Test",
+        "Language": "English",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python-Lab-Validation/refs/heads/main/getstarted.txt",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/bonzz/labguides/refs/heads/main/labguide1scenario1(nshp)prod.txt",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/bonzz/labguides/refs/heads/main/labguide2scenario1(nshp)prod.txt",
+                "Order": 3
+            }
+        ]
+    }
+]
